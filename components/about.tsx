@@ -18,7 +18,7 @@ export default function About() {
       id="about"
     >
       <SectionHeading>About me</SectionHeading>
-      <p className="mb-3">
+      <p className="mb-3 ">
         I'm a software developer with a strong command of C++, JavaScript, and
         Java. My expertise spans a wide spectrum of technologies, including
         React, Redux, NextJS, GraphQL, Node.js, Express.js, MongoDB, Jest,
